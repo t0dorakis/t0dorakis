@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LangChain**
 
-- 👨‍💻 All of my projects are available at [https://www.theodorhillmann.de](www.theodorhillmann.de)
+- 👨‍💻 All of my projects are available at [www.theodorhillmann.de](https://www.theodorhillmann.de)
 
 - 📫 How to reach me **ich@theodorhillmann.de**
 
